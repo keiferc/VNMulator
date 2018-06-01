@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+*.dSYM
+*.env
+./design/notes
+./design/xml
