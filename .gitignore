@@ -1,8 +1,6 @@
 .DS_Store
-./design/.DS_Store
-./design/png/.DS_Store
 Thumbs.db
 *.dSYM
 *.env
-./design/notes
-./design/xml
+design/notes/
+design/xml/
